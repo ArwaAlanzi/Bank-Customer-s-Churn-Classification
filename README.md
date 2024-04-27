@@ -1,1 +1,1 @@
-# Bank-Customer-s-Churn-Classification
+# Bank-Customers-Churn-Classification
